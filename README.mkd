@@ -1,0 +1,8 @@
+#Zotero Workshop Documentation#
+This documentation is written as part of the Zotero trainer workshops conducted by Sebastian Karcher for Zotero and the Corporation for Digital Scholarship. 
+I make this available in the hope that it will help to spread and support Zotero. 
+You can use all of these materials freely, as long as you acknowledge where you got them from.
+However, you may *under no circumstances* use these materials to suggest in any way that any training you provide is endorsed by Zotero except when given explicit permission by Zotero or the Corporation for Digital Scholarship.
+
+All documentation is written in [pandoc enhanced markdown](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown) and can be converted into a range of desired formats using John MacFarlane's amazing [pandoc](http://johnmacfarlane.net/pandoc/index.html). 
+Contributions, corrections, and suggestions are welcome. Let me know if you are interested in collaborating more regularly and I'll give you write access to the git.  
