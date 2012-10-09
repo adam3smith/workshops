@@ -1,0 +1,1 @@
+pandoc -N --template=mytemplate.tex --variable mainfont="Linux Libertine O" --variable sansfont="Linux Biolinum O" --variable monofont="Ubuntu Mono" --variable fontsize=12pt --variable version=0.1 chapter-one.mkd --latex-engine=xelatex --toc -o chap1a.pdf

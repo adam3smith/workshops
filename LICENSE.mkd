@@ -1,3 +1,4 @@
-The content of the zotero-workshop git is licensed under a Creative Commons Attribution-Share Alike ([CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)) license. 
+Copyright 2012 Sebastian Karcher.
+The content of the zotero-workshop git is licensed under a Creative Commons Attribution-Share Alike ([CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)) license.  
 
 "Zotero" and the Zotero logo are Trademarks of George Mason University http://www.zotero.org/support/terms/trademark.
