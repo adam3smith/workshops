@@ -40,7 +40,7 @@
 * `<bibliography>` defines the bibliography (optional, but almos always required).
 
 #Key CSL elements
-* `<text>` prints something - a variable, a macro, etc.
+* `<text>` prints something - a var	iable, a macro, etc.
 * `<choose>` begins a conditional: if --> then. Requires `<if>` as a child
 * `<names>` and `<date>` get special treatment
 * `<group>` groups several elements together.
