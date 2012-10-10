@@ -1,1 +1,5 @@
 pandoc -N --template=mytemplate.tex --variable mainfont="Linux Libertine O" --variable sansfont="Linux Biolinum O" --variable monofont="Ubuntu Mono" --variable fontsize=12pt --variable version=0.1 chapter-one.mkd --latex-engine=xelatex --toc -o chap1a.pdf
+
+pandoc -N --template=~/Desktop/Zotero/zotero-workshop/Atlanta/mytemplate.tex --variable mainfont="Linux Libertine O" --variable sansfont="Linux Biolinum O" --variable monofont="Ubuntu Mono" --variable fontsize=12pt  ZoteroWS-agenda-Atlanta.mkd --latex-engine=xelatex -o Atlanta-Agenda.pdf
+
+
