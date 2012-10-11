@@ -12,9 +12,6 @@ DOI: 10.1093/ser/mwq022
 	year = {2000} 
 }
 
-
-
-
 ##Documentation:
 http://www.zotero.org/support/
 http://libguides.wustl.edu/zotero
