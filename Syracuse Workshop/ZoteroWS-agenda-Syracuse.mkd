@@ -56,7 +56,7 @@
 	+ Using the Zotero API
 
 
-###11:15&endash;12:15 Teaching Zotero###
+###11:15&ndash;12:15 Teaching Zotero###
 * What should we teach?
 * How do we promote Zotero sessions?
 * Tips, tricks, and experiences
