@@ -35,13 +35,13 @@ Table: Advantages of using Zotero for Firefox vs. Standalone
 
 
 
-###Installing Zotero for Firefox###
+###Installing Zotero for Firefox (ZFF)###
 Install Zotero for Firefox simply by clicking the "Zotero for Firefox" link on the [Download page][downloadpage]. Firefox will prompt you to install Zotero.
 If you plan on working with Zotero in Word or Libre Office, you should also install the word processor plugins at this time, again simply by clicking on the link and clicking install when prompted by Firefox. Restart Firefox for Zotero's install to complete.
 
 Zotero will always be compatible with the current stable Firefox release, if you're using an alpha or beta build of Firefox you may encounter problems. Compatibility with Firefox versions no longer supported by Mozilla is not guaranteed. Alwyas make sure to run the most recent Firefox version, either of the regular or the extended support branch.
 
-###Installing Zotero Standalone###
+###Installing Zotero Standalone (ZSA)###
 
 * **Windows:** Download Zotero Standalone and double-click the .exe file. Follow the instructions of the installers
 * **Mac:** Download Zotero Standalone and drag the .dmg file to your application folder
@@ -58,9 +58,9 @@ In most cases, users will also want to install the Zotero Connector for their fa
 
 
 ###Installing Standalone and Zotero for Firefox###
-Users may want to install Zotero in both the version for Firefox and Standalone. This can be useful if a user switches between different browsers or if she does not like a browser open while writing. While the order of installation is not hugely important, I recommend first installing Zotero for Firefox. On installing (or first running) Zotero Standalone, it will prompt the user to share the data directory of Zotero for Firefox. It is strongly recommended to use that option.
-This means that the user has one single Zotero library on her computer, any changes or additions made in Zotero Standalone affect Zotero for Firefox and vice versa.
-But what happens when both Standalone and Firefox are open? When Zotero Standalone is open, Zotero for Firefox switches to "connector mode." What that means is that any items a user imports will import in Zotero Standalone. The user won't be able to open Zotero in Firefox (if it is open it closes automatically) and any Firefox-only functionality (such as proxy redirection) is disabled. In other words, Zotero for Firefox behaves like the connectors for Chrome and Safari.
+Users may want to install Zotero in both the version for Firefox and Standalone. This can be useful if a user switches between different browsers or if she does not like a browser open while writing. While the order of installation is not hugely important, I recommend first installing Zotero for Firefox. On installing (or first running) ZSA, it will prompt the user to share the data directory of Zotero for Firefox. It is strongly recommended to use that option.
+This means that the user has one single Zotero library on her computer, any changes or additions made in ZSA affect Zotero for Firefox and vice versa.
+But what happens when both Standalone and Firefox are open? When ZSA is open, ZFF switches to "connector mode." What that means is that any items a user imports will import in ZSA. The user won't be able to open Zotero in Firefox (if it is open it closes automatically) and any Firefox-only functionality (such as proxy redirection) is disabled. In other words, Zotero for Firefox behaves like the connectors for Chrome and Safari.
 
 ###Installation Troubleshooting###
 
@@ -70,7 +70,7 @@ Installation issues are slightly more common for the World and LibreOffice plugi
 
 ##Adding Items to Zotero##
 
-*In the following, I will assume Zotero for Firefox as the default set-up. Functions that are available in Firefox only as well as those differing in Standalone will be noted separately*
+*In the following, I will assume Zotero for Firefox (abbreviated as ZFF) as the default set-up. Functions that are available in Firefox only as well as those differing in Zotero Standalone (abbreviated as (ZSA) will be noted separately*
 
 There are a multitude of differing methods for getting items into Zotero. Most advanced users of Zotero will use many, if not all of them. The different methods have different advantages and disadvantages and being aware of them will help users use them effectively. In rough order or priority, users can add items
 
@@ -93,7 +93,7 @@ For single items (i.e. all icons except the manila folder), Zotero will then imp
 Select all items you want to import and click OK (or press return) and Zotero will import all selected items, again informing you via the grey pop-up about the items it imports. 
 
 ####Automatic Tags and Attachments####
-For most sites, Zotero will take a snapshot of the current site, or, in the case of newspapers or magazines, often of the single page or print view of an article. For most academic journals and article databases (such as EBSCO or JSTOR), Zotero will attempt to download and attach a copy of the fulltext of an article as a PDF. This will only work where a user has access to the fulltext PDF through her institution - either by logging in to a proxy while accessing the resource from off-campus or by IP recognition on campus. *PDF attachment for proxied resources is less reliable for the connectors than for Zotero Firefox.* As far as they are available, Zotero will also automatically add any keywords or subject terms on the translated page as tags.
+For most sites, Zotero will take a snapshot of the current site, or, in the case of newspapers or magazines, often of the single page or print view of an article. For most academic journals and article databases (such as EBSCO or JSTOR), Zotero will attempt to download and attach a copy of the fulltext of an article as a PDF. This will only work where a user has access to the fulltext PDF through her institution - either by logging in to a proxy while accessing the resource from off-campus or by IP recognition on campus. *PDF attachment for proxied resources is less reliable for the connectors than for ZFF.* As far as they are available, Zotero will also automatically add any keywords or subject terms on the translated page as tags.
 
 All three of these options - attaching snapshots, attaching PDFs, and associating tags, can be toggled off and on in the General tab of the Zotero preferences.
 
@@ -110,7 +110,7 @@ While most translators are tied to specific URLs or URL patterns, Zotero has fou
 
 Users can tell which translator is used for any given site by hovering (without clicking) their mouse cursor over the translator icon. They will see a little black box displaying "Save to Zotero" followed by the name of the translator in parentheses: ![which translator](./screenshots/which_translator.png). 
 
-*Firefox only*: Often, severable translators are usable on a page - e.g. a DOI as well as embedded metadata, or a dedicated translator as well as DOI. In Zotero for Firefox, users can choose which of these translators Zotero uses, by right clicking on the translator icon in the URL bar. The default translator is listed at the top, i.e. DOI in this case ![translator select](./screenshots/translator_select.png). 
+*ZFF only*: Often, severable translators are usable on a page - e.g. a DOI as well as embedded metadata, or a dedicated translator as well as DOI. In ZFF, users can choose which of these translators Zotero uses, by right clicking on the translator icon in the URL bar. The default translator is listed at the top, i.e. DOI in this case ![translator select](./screenshots/translator_select.png). 
 
 ###Manually Adding Items###
 No one likes inputting references manually, but at times - e.g. for primary sources from an archive - this may still be necessary. Moreover, frequently items imported in Zotero may need manual touching up and it is helpful to understand manual data entry for that purpose.
@@ -150,14 +150,28 @@ Zotero imports from a long list of bibliographic formats:
 * Firefox Exported Bookmarks
 * Unqualified Dublin Core RDF
 
+*Note that the "Import" function only works for bibliographic formats, not for copys of articles, e.g. in PDF format*
+
 Most of these import translators serve a dual purpose - they allow users to import from a given format, e.g. when transferring data from another reference managemer, but they can also be "called" by web import translators. For example, most web translators importing from library catalogs will often access and import the catalog's MARC data. Here we are concerned with the former.
 
-There are two ways to import from bibliographic formats. Both can be found under the gears icon ![Gears icon](./screenshots/gears_icon.png) in the Zotero Toolbar. To import an entire file in a bibliographic format, e.g. as exported from a reference manager, click on "Import..." ![Import](./screenshots/import_menu.png), then select the file you want to import. Zotero will import the contents into a a new collection with the timestamp of the import (import from Zotero RDF and Bibliontology RDF can create collections with different names). Alternatively, you can select one or several entries in a bibliographic format and copying them from to the clipboard (using "copy" from the edit menu or Ctrl/Cmd+C). This may be useful to import only parts of a file, or if you see bibliograpic data displayed on a website. It is crucial to include full entire records only, otherwise import will fail.
+There are two ways to import from bibliographic formats. Both can be found under the gears icon ![Gears icon](./screenshots/gears_icon.png) in the Zotero Toolbar. To import an entire file in a bibliographic format, e.g. as exported from a reference manager, click on "Import..." ![Import](./screenshots/import_menu.png), then select the file you want to import. Zotero will import the contents into a a new collection with the timestamp of the import ![Import Collection](./screenshots/import_collection.png)  (import from Zotero RDF and Bibliontology RDF can create collections with different names). 
+
+Zotero will try to import and store files attached to bibliographic records. For more recently developed reference managers like *Sente, Mendeley, or Quiqqa* this will work smoothly with exports in bibtex format. For Endnote, users should use export in RIS format. Currently, it is necessary to modify the exported file to substitute the lable {internal-pdf} used by endnote with the filepath to Endnote's PDF folder. Detailed instructions are available [online](www.zotero.org/support/kb/importing_records_from_endnote).
+
+####Importing from the Clipboard####
+Alternatively, you can select one or several entries in a bibliographic format and copying them from to the clipboard (using "copy" from the edit menu or Ctrl/Cmd+C). Then, select "Import from Clipboard" from the Gears menu (see image above). Again, all imported items will import into a new collection with the timestamp of the export. This may be useful to import only parts of a file, or if you see bibliograpic data displayed on a website. It is crucial to include full entire records only, otherwise import will fail.
+
+![Copying a bibtex Record to the clipboad](./screenshots/copy_import.png) 
 
 ####Direct RIS/Refer Import####
- 
 
+*ZFF only* 
 
+Many online databases offer users the option to export citation data directly to RIS or Refer format (sometimes this option will be called "Export to Reference Manager" or "Export to Endnote"). In most such cases, Zotero will offer import via the URL bar icon as desribed [above](###Using Zotero Web Translators) and users should always prefer that option. If that option is not available, however, Zotero will, by default, automatically import downloaded citation data in RIS or Refer format. The first time a user downloads citation data from a page, she will be prompted by Zotero and can opt to always import such data automatically. IMAGE!!!
+
+This option, named "Use Zotero for downloaded RIS/Refer files" can be automatically disabled (and re-enabled) in the general tab of the Zotero preferences. ![Download RIS Option](./screenshots/download_ris.png) 
+
+###Import Using Identifiers###
 
 
 <!--Linklist-->

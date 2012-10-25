@@ -10,3 +10,5 @@ pandoc -t beamer  framework-translators.md -V theme:Darmstadt -o framework-trans
 
 
 pandoc evaluation.md -o evaluation.odt
+
+pandoc links.md -o links.odt
