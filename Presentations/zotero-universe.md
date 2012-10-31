@@ -1,6 +1,6 @@
 % The Zotero Universe
 % Sebastian Karcher
-% GSU Atlanta, October 2012
+% Syracuse University, November 2012
 
 
 # The Zotero Universe
@@ -14,7 +14,16 @@
 
 # Extending the Zotero Universe - Zotero Plugins
 
-* http://www.zotero.org/support/plugins
+* All plugins are at: http://www.zotero.org/support/plugins
 * Zotero Quicklook - Previews for Zotero
 * Zotfile - advanced PDF handling for Zotero
-* 
+* Qnotero - quick access to Zotero from the taskbar
+* Papermachines - Textmining and display with Zotero
+
+# Beyond Zotero - Multilingual Zotero (MLZ)
+
+* www.citationstylist.org
+* "Fork" of Zotero by Frank Bennett
+* Closely aligned with regular Zotero
+* Particularly for legal citations and non-Western languages
+* Experimental/Cutting Edge

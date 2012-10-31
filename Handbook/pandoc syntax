@@ -8,6 +8,9 @@ pandoc -t beamer  zotero-universe.md -V theme:Darmstadt -o zotero-universe.pdf
 
 pandoc -t beamer  framework-translators.md -V theme:Darmstadt -o framework-translators.pdf
 
+pandoc -t beamer  intro-zotero.md -V theme:Darmstadt -o intro-zotero.pdf
+
+
 
 pandoc evaluation.md -o evaluation.odt
 

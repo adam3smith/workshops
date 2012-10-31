@@ -1,4 +1,4 @@
-#Evaluation for the Zotero Workshop at GSU, Atlanta, October 11-12 2012
+#Evaluation for the Zotero Workshop at Syracuse University, November 1-2, 2012
 
 *This is for my personal use and in the hope that it will help me improve future workshops. Feel free to do this anonymously or include your name so I can follow up with you*\
 

@@ -1,0 +1,70 @@
+% Introduction to Zotero
+% Sebastian Karcher
+% Syracuse University, November 2012
+
+#Installing Zotero
+
+##Zotero for Firefox vs. Standalone
+
+--------------------------------------------------------------------------
+ Zotero for Firefox									Zotero Standalone
+ ---------------------------         ---------------------------
+ More reliable import 						  No need for Firefox Browser 
+ from web 
+
+ Proxy support								 			Program starts up faster
+							
+ Supports direct import							Faster performance
+ of RIS/Refer from web	
+
+ Supports printing and 							Busy Zotero 
+ modifying of reports							  doesn't render browser unresponsive
+-------------------------------------------------------------------------------------
+Remember it's possible to install both!
+
+##Zotero in an Institutional Environment
+Three Scenarios:
+1. **Personal Computers or Roaming Profiles:** Ideal case, batch-install like any other Firefox add-on or software.
+2. **Public computers with log-in, wiped on every log-out:** Will need to sync entire library on every log-in: slow for large libraries, but doable.
+3. **Public computers, no log-in:** Do not install Zotero. Basic import/edit functionality via bookmarklet/connectors and zotero.org. No CWYW. 
+
+
+#Getting Items into Zotero
+
+##Six ways of importing to Zotero
+* Web Translators (URL bar icon)
+* Manual Input or Edit
+* From a bibliographic format (RIS, BibTeX, MARC, etc.)
+* Add by identifier (DOI, ISBN, PMID)
+* Add PDF then Retrieve Metadata
+* Get any Webpage with basic data
+
+##Data Quality Matters
+
+* Things to look for:
+   + Completeness
+   + Full text attachments
+   + Full first names
+   + Titles in Sentence case
+* For articles: Full Text Database/Publisher>>Google Scholar
+* For books: Most library catalogs > Worldcat > Amazon
+
+#Syncing
+
+##Two types of Syncing
+
+Data Syncing:
+* Bibliographical data, notes, links (everything that's in zotero.sqlite file)
+* Free without data limit (in practice works with up to about 30k items)
+* Always with Zotero Server
+
+File Syncing
+* Attachments (PDFs, snapshots, anything else)
+* Free up to 100MB
+* Can be to Zotero Storage or WebDAV server
+
+##Zotero Storage vs. WebDAV
+
+* WebDAV services can be supplied by university IT; Also available via 3rd party provided, often for much lower price.
+* Many 
+

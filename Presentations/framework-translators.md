@@ -1,9 +1,20 @@
 %Creating Zotero Translators Using Framework
 %Sebastian Karcher
-%GSU Atlanta, October 2012
+%Syracuse University, November 2012
+
+#Why Learn About Translators?
+* One-click import from the web is perhaps *the* key features that distinguishes Zotero
+* In this session we will write a "screen scraper" type translator for Zotero
+* Best Case: This will allow you to write translators for sites you or your "clients" need
+* Minimal Case: This will give you an undertstanding on how translators work and what may be possible, even if you're not going to do it yourself 
 
 #Some Notes on Zotero Translators
 * Each Zotero translator is an individual file, written in javascript
+* There are four types of translators: Web, Import, Search, Export
+* Some web translators, like those for many libraries, call on an import translators (e.g. MARC) - we won't learn about those.
+* Other web translators "scrape" data from the page - that is what we will do now
+
+# (I know it's just past Halloween but:) This isn't going to be scary!
 * You cannot break Zotero by fiddling with translators - you can always "reset" from the advanced panel of the preferences
 * About 2 years ago, Eric Hetzner of the UC libraries developed a "framework" for wrting translators --> now you don't need any javascript. Just Xpaths and regular expressions. And those are easy!
 
@@ -62,11 +73,10 @@ itemType : 'blogPost',
 detect : FW.Xpath('//h1[@class="article-title"]'),
 title : FW.Xpath('//h1[@class="article-title"]').text().trim(),
 attachments : {
-  url : FW.Url(),
-  title : "voxEU snapshot",
-  type : "text/html"
+  url : FW.Url(),title : "voxEU snapshot",type : "text/html"
 },
-creators : FW.Xpath('//div[@class="author"]//span[@class="field-content"]/a').text().cleanAuthor("author"),
+creators : FW.Xpath('//div[@class="author"]
+//span[@class="field-content"]/a').text().cleanAuthor("author"),
 abstractNote : FW.Xpath('//div[@class="article-teaser"]').text(),
 date : FW.Xpath('//h1[@class="article-title"]/following-sibling::p/text()').text(),
 publicationTitle : "VoxEU.org"
@@ -82,8 +92,10 @@ FW.MultiScraper({
 itemType : "multiple",
 detect : FW.Xpath('//ul[contains(@class, "search-results")]'),
 choices : {
-  titles : FW.Xpath('//ul[contains(@class, "search-results")]/li/h2/a').text(),
-  urls : FW.Xpath('//ul[contains(@class, "search-results")]/li/h2/a').key('href').text()
+titles : FW.Xpath('//ul[contains(@class, "search-results")]
+			/li/h2/a').text(),
+urls : FW.Xpath('//ul[contains(@class, "search-results")]
+			/li/h2/a').key('href').text()
 }
 });
 ~~~~~~~~~
@@ -91,4 +103,4 @@ choices : {
 #Our Tools
 
 * Scaffold - a Firefox extension to write and test the translator
-* Firefox "Inspect Element" - to help us understand the structure of a webpage (there are alternatives like "Firebug)
+* Firefox "Inspect Element" - to help us understand the structure of a webpage (there are alternatives like "Firebug")

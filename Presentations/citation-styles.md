@@ -1,13 +1,20 @@
 %Intro to the Citation Style Language
 %Sebastian Karcher
-%GSU Atlanta, October 2012
+%Syracuse University, November 2012
 
-#Brief History of CSL
+#What we will learn this session
+* Zotero's citation styles are writen in CSL - Citation Style Language
+* While there are 700 styles covering almost 3000 publications, users frequently ask for specific journals or would like small adjustments to style for their own use
+* We will learn how to use a visual editor for CSL to 
+		+ identify existing citation styles that resemble specifications
+		+ adjust those citation styles
+
+#Brief history of CSL
 * Developed by Bruce D'Arcus 
 * First Included in Zotero in 2006
 * Major Update to CSL 1.0 in 2010
 * Since then, adopted by Mendeley, Papers2, Quiqqa and other
-* Several Open Source processors for CSL, including citeproc-js, used in Zotero and Mendeley, written & maintained by Frank Bennett
+* Several Open Source processors for CSL, including citeproc-js, used in Zotero and Mendeley, written \& maintained by Frank Bennett
 * Project hosted at citationstyles.org, maintained principally by Rintze Zelle
 
 #Advantages of CSL
@@ -31,7 +38,7 @@
 
 * Limited support for journal abbreviations
 
-#Basic Structure of a CSL style
+#Basic structure of a CSL style
 * CSL is an XML language - it looks a lot like html. Like webpages, CSL styles are built up of nested nodes.
 * `<style>` The parent of all other nodes. contains basic info and "global" options such as default language
 * `<info>` section contains name of style and other identifiers
