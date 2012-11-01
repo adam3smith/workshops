@@ -5,6 +5,7 @@
 ##Importing Data:
 
 Zotero Download Page:http://www.zotero.org/support/3.0
+
 Zotero Bookmarklet:https://www.zotero.org/bookmarklet/bookmarklet.html
 
 
@@ -47,6 +48,7 @@ Full Specifications: http://citationstyles.org/downloads/specification.html
 
 Sample Style Request: http://forums.zotero.org/discussion/25271/style-request-can-j-dietetic-practice-research/#Item_4
 
+http://forums.zotero.org/discussion/26011/style-request-journal-of-antimicrobial-chemotherapy/#Item_1
 
 
 ##Plugins & Infrastructure
