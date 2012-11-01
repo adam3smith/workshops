@@ -23,9 +23,13 @@
 Remember it's possible to install both!
 
 ##Zotero in an Institutional Environment
+
 Three Scenarios:
+
 1. **Personal Computers or Roaming Profiles:** Ideal case, batch-install like any other Firefox add-on or software.
+
 2. **Public computers with log-in, wiped on every log-out:** Will need to sync entire library on every log-in: slow for large libraries, but doable.
+
 3. **Public computers, no log-in:** Do not install Zotero. Basic import/edit functionality via bookmarklet/connectors and zotero.org. No CWYW. 
 
 
@@ -42,10 +46,11 @@ Three Scenarios:
 ##Data Quality Matters
 
 * Things to look for:
-   + Completeness
-   + Full text attachments
-   + Full first names
-   + Titles in Sentence case
+   	+ Completeness
+   	+ Full text attachments
+   	+ Full first names
+   	+ Titles in Sentence case
+
 * For articles: Full Text Database/Publisher>>Google Scholar
 * For books: Most library catalogs > Worldcat > Amazon
 
@@ -54,17 +59,22 @@ Three Scenarios:
 ##Two types of Syncing
 
 Data Syncing:
+
 * Bibliographical data, notes, links (everything that's in zotero.sqlite file)
 * Free without data limit (in practice works with up to about 30k items)
 * Always with Zotero Server
 
 File Syncing
+
 * Attachments (PDFs, snapshots, anything else)
 * Free up to 100MB
 * Can be to Zotero Storage or WebDAV server
 
 ##Zotero Storage vs. WebDAV
 
-* WebDAV services can be supplied by university IT; Also available via 3rd party provided, often for much lower price.
-* Many 
+* WebDAV services can be supplied by university IT; a PHP script is available. Also available via 3rd party provided, often for much lower price.
+* Zotero Works smoothly with WebDAV, but many free/cheap commercial WebDAVs aren't following specifications
+* Some functionality is only available with Zotero Storage: File access at zotero.org and file sharing in (closed) groups
+
+*Under no circumstances should the Zotero database be placed on a network drive or on a synced Dropbox folder*
 

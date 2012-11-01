@@ -1,6 +1,12 @@
 #Zotero Workshop Notes \& links:
 
-Importing Data:
+
+
+##Importing Data:
+
+Zotero Download Page:http://www.zotero.org/support/3.0
+Zotero Bookmarklet:https://www.zotero.org/bookmarklet/bookmarklet.html
+
 
 ISBN: 9780807752623
 PMID: 22289095
