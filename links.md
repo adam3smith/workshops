@@ -1,5 +1,21 @@
 #Zotero Workshop Notes \& links:
 
+#Yesterday's Links:
+
+Zutilo:https://github.com/willsALMANJ/Zutilo
+
+Keyconfig:http://forums.mozillazine.org/viewtopic.php?t=72994
+
+WebDAV PHP:http://forums.zotero.org/discussion/4736
+
+Importing from Endnote: http://www.zotero.org/support/kb/importing_records_from_endnote
+
+
+Linux Install Script:
+PPA: http://forums.zotero.org/discussion/25317/install-zotero-standalone-from-ubuntu-linux-mint-ppa/%5D
+http://www.cogsci.nl/software/qnotero#ppa
+
+Hidden Preferences: http://www.zotero.org/support/preferences/hidden_preferences
 
 
 ##Importing Data:
@@ -53,6 +69,8 @@ http://forums.zotero.org/discussion/26011/style-request-journal-of-antimicrobial
 
 ##Plugins & Infrastructure
 List of Zotero plugins: http://www.zotero.org/support/plugins
+
+Papermachine: http://web.library.emory.edu/blog/supercharge-your-zotero-library-using-paper-machines-part-i
 
 Zotfile: http://www.columbia.edu/~jpl2136/zotfile.html
 
