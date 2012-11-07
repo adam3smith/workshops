@@ -1,6 +1,6 @@
 % Why is Zotero Open Source and Why Does it Matter? 
 % Sebastian Karcher
-% Syracuse University, November 2012
+% Boston College, November 2012
 
 
 #Why Open Source

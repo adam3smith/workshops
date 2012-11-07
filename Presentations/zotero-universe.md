@@ -1,6 +1,6 @@
 % The Zotero Universe
 % Sebastian Karcher
-% Syracuse University, November 2012
+% Boston College, November 2012
 
 
 # The Zotero Universe

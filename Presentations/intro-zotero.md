@@ -1,6 +1,6 @@
 % Introduction to Zotero
 % Sebastian Karcher
-% Syracuse University, November 2012
+% Boston College, November 2012
 
 #Installing Zotero
 

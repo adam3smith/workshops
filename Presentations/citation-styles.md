@@ -1,6 +1,6 @@
 %Intro to the Citation Style Language
 %Sebastian Karcher
-%Syracuse University, November 2012
+%Boston College, November 2012
 
 #What we will learn this session
 * Zotero's citation styles are writen in CSL - Citation Style Language
@@ -56,6 +56,6 @@
 
 #Using the Visual Editor#
 * The core idea of the visual editor is that you do as little editing as possible
-* Use the "search by example" function, especially the "book chapter" function.
+* Use the "search by example" function, especially the "book chapter" item type.
 
 #Let's write some citation styles!!! 

@@ -3,13 +3,10 @@ pandoc -N --template=mytemplate.tex --variable mainfont="Linux Libertine O" --va
 pandoc  ZoteroWS-agenda-Atlanta.mkd -o Atlanta-Agenda.odt
 
 pandoc -t beamer  citation-styles.md -V theme:Darmstadt -o citation-styles.pdf
-
 pandoc -t beamer  zotero-universe.md -V theme:Darmstadt -o zotero-universe.pdf
-
 pandoc -t beamer  framework-translators.md -V theme:Darmstadt -o framework-translators.pdf
-
 pandoc -t beamer  intro-zotero.md -V theme:Darmstadt -o intro-zotero.pdf
-
+pandoc -t beamer  zotero-foss.md -V theme:Darmstadt -o zotero-foss.pdf
 
 
 pandoc evaluation.md -o evaluation.odt

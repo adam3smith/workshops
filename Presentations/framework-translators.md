@@ -1,6 +1,6 @@
 %Creating Zotero Translators Using Framework
 %Sebastian Karcher
-%Syracuse University, November 2012
+%Boston College, November 2012
 
 #Why Learn About Translators?
 * One-click import from the web is perhaps *the* key features that distinguishes Zotero
@@ -14,7 +14,7 @@
 * Some web translators, like those for many libraries, call on an import translators (e.g. MARC) - we won't learn about those.
 * Other web translators "scrape" data from the page - that is what we will do now
 
-# (I know it's just past Halloween but:) This isn't going to be scary!
+# (I know last week was Halloween but:) This isn't going to be scary!
 * You cannot break Zotero by fiddling with translators - you can always "reset" from the advanced panel of the preferences
 * About 2 years ago, Eric Hetzner of the UC libraries developed a "framework" for wrting translators --> now you don't need any javascript. Just Xpaths and regular expressions. And those are easy!
 
