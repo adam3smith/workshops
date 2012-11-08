@@ -172,6 +172,34 @@ Many online databases offer users the option to export citation data directly to
 This option, named "Use Zotero for downloaded RIS/Refer files" can be automatically disabled (and re-enabled) in the general tab of the Zotero preferences. ![Download RIS Option](./screenshots/download_ris.png) 
 
 ###Import Using Identifiers###
+Zotero can import bibliographic data simply by reading in one of three alpha-numerical "identifiers": DOI, ISBN, and Pubmed ID (PMID). In the Zotero toolbar, simply click the magic wand icon ![The Magic Wand Icon](./screenshots/magic-wand.png) and paste the respective identifier into the pop-up window that appears. It is currently only possible to enter one identifier at a time and Zotero is relatively sensitive to the format: e.g. ISBNs should be added with no space before them, and DOIs should not include the dx.doi.org/ url component used to resolve them. 
+
+-------------------------------------------------------------------------------------
+ Acceptable																	 Not Acceptable
+----------------------------------					-----------------------------------------
+9780807752623																		ISBN: 9780807752623
+22289095																				22289095; 22457645	
+10.1093/ser/mwq022															http://dx.doi.org/10.1093/ser/mwq022
+-------------------------------------------------------------------------------------
+
+None of the identifiers will attach full-text PDFs to items. Data for PMIDs are retrieved directly from NCBI Pubmed and generall of very high quality. Data for DOIs comes from CrossRef and is typically accurate, but never includes keywords and abstracts.Data for ISBNs are retrieved from Worldcat, where records are of varying quality 
+
+###Retrieve Metadata for PDFs
+
+Zotero is able to retrieve data for many PDF files. For any "top-level" PDF, i.e. for any PDF that is *not* attached to a Zotero item, Zotero can attempt to "Retrieve Metadata," in other words, find the bibliographic data online.
+
+####Getting Ready to Retrieve Metadata
+There are three ways to get PDFs into Zotero as top-level items:
+
+1. Drag one or several files from your file system. It is possible to simply drag any file to Zotero, both to attach it, but also, as for the retrieve metadata function, at the top level. Drag the file to the middle panel. If a collection is selected, it will be placed into that collection. *(This function is broken on most or all linux systems)*
+
+2. "Store Copy of File" under the green plus sign has the exact same function as drag&drop
+
+3. *(ZFF only)* With the PDF open in Firefox using a PDF plugin (like Adobe's Acrobat plugin or Mozilla's own pdf.js) click the "Create New Item from Current Page" icon ![Create New Item Icon](./screenshots/create-new-item.png) and the PDF will stored in Zotero as a top-level item. As above, it will be placed in the selected collection.
+
+Next, right-click on the PDF and select "Retrieve Metadata for PDF" from the context menu ![Retrieve Metadata](./screenshots/retrieve-metadata.png) 
+
+If you are doing this for the first time, Zotero will prompt you to install "pdftools" 
 
 
 <!--Linklist-->

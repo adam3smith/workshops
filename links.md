@@ -61,8 +61,7 @@ Full Specifications: http://citationstyles.org/downloads/specification.html
 
 Sample Style Request: http://forums.zotero.org/discussion/25271/style-request-can-j-dietetic-practice-research/#Item_4
 
-http://forums.zotero.org/discussion/26011/style-request-journal-of-antimicrobial-chemotherapy/#Item_1
-
+http://forums.zotero.org/discussion/26002/style-request-the-auk/#Item_1
 
 ##Plugins & Infrastructure
 List of Zotero plugins: http://www.zotero.org/support/plugins
