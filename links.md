@@ -59,9 +59,7 @@ Field Mappings: http://aurimasv.github.com/z2csl/typeMap.xml
 
 Full Specifications: http://citationstyles.org/downloads/specification.html
 
-Sample Style Request: http://forums.zotero.org/discussion/25271/style-request-can-j-dietetic-practice-research/#Item_4
-
-http://forums.zotero.org/discussion/26002/style-request-the-auk/#Item_1
+Sample Style Request:http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291554-527X/homepage/ForAuthors.html
 
 ##Plugins & Infrastructure
 List of Zotero plugins: http://www.zotero.org/support/plugins
