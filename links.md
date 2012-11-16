@@ -105,6 +105,11 @@ Two online exhibition systems that integrate with Zotero
 Omeka (developed by CHNM): www.omeka.net and http://omeka.org
 And more heavily focused on annotating: http://editorsnotes.org/
 
+##Support
+
+http://www.zotero.org/support/reporting_bugs
+http://forums.zotero.org/discussion/26188/esa-journals-translator-issues/#Item_4
+http://forums.zotero.org/discussion/70/4/importing-endnote-files-into-zotero/
 
 
 ##Translators
