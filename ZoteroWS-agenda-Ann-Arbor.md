@@ -1,9 +1,9 @@
 
-#Agenda for the Zotero Workshop at 	Boston College, November 8&ndash;9#
+#Agenda for the Zotero Workshop at the University of Michigan, Ann Arbor, November 29&ndash;30#
 
 *This is a tentative agenda. The workshop is small and interactive and we can shorten or extend modules as corresponds to participants' interests and needs.* 
 
-##Thursday November 8##
+##Thursday November 29##
 
 ###10&ndash;10:45 Introduction and Expectations###
 * Introduction and Overview
@@ -42,7 +42,7 @@
 
 
 ***
-##Friday November 9##
+##Friday November 30##
 
 
 ###9&ndash;10:00 Getting to Know Zotero Users###
@@ -70,8 +70,6 @@
 * Beyond Zotero Central
 	+ Plugins ([Zotfile](http://www.columbia.edu/~jpl2136/zotfile.html), [Quicklook](https://addons.mozilla.org/en-US/firefox/addon/zoteroquicklook/), [Papermachine](http://chrisjr.github.com/papermachines/) and more)
 	+ [Multilingual Zotero](http://citationstylist.org/)
-	+ Using the Zotero API
-
 
 
 ###3:20&ndash;4:30 Supporting Zotero###

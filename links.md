@@ -1,9 +1,12 @@
 #Zotero Workshop Notes \& links:
 
 ##Installing
+
 http://www.zotero.org/support/3.0
+
 Linux Install Script:
 PPA: http://forums.zotero.org/discussion/25317/install-zotero-standalone-from-ubuntu-linux-mint-ppa/%5D
+
 http://www.cogsci.nl/software/qnotero#ppa
 
 
@@ -11,9 +14,10 @@ http://www.cogsci.nl/software/qnotero#ppa
 
 Zotero Bookmarklet:https://www.zotero.org/bookmarklet/bookmarklet.html
 
-
 ISBN: 9780807752623
+
 PMID: 22289095
+
 DOI: 10.1093/ser/mwq022
 
 @book{smith_theory_2000, 
@@ -51,6 +55,8 @@ Oregon State in depth tutorial: http://ica.library.oregonstate.edu/tutorials/626
 
 Zotero Evangelist listserv: https://groups.google.com/forum/?fromgroups#!forum/zotero-evangelists
 
+Zotero dev listserv: http://groups.google.com/group/zotero-dev
+
 ##Citation Styles
 
 GUI Editor: http://steveridout.com/csl/about/
@@ -62,6 +68,7 @@ Full Specifications: http://citationstyles.org/downloads/specification.html
 Sample Style Request:http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291554-527X/homepage/ForAuthors.html
 
 ##Plugins & Infrastructure
+
 List of Zotero plugins: http://www.zotero.org/support/plugins
 
 Papermachine: http://web.library.emory.edu/blog/supercharge-your-zotero-library-using-paper-machines-part-i
@@ -94,15 +101,20 @@ https://sge.lclark.edu/2011/10/26/linking-to-zotero-in-your-posting/
 
 A write-up of teaching using a Zotero group:
 http://www.briancroxall.net/2010/01/18/final-annotated-zotero-group-bibliography-assignment/
+
 An example of a collaborative bibliography using a group:
 http://www.zotero.org/groups/digital_humanities_education
+
 An example of a curated subject bibliography:
 http://ancientbiblio.wordpress.com/
+
 https://www.zotero.org/groups/ancient_world_open_bibliographies
 
 
 Two online exhibition systems that integrate with Zotero
+
 Omeka (developed by CHNM): www.omeka.net and http://omeka.org
+
 And more heavily focused on annotating: http://editorsnotes.org/
 
 ##Support

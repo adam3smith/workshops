@@ -197,9 +197,12 @@ There are three ways to get PDFs into Zotero as top-level items:
 
 3. *(ZFF only)* With the PDF open in Firefox using a PDF plugin (like Adobe's Acrobat plugin or Mozilla's own pdf.js) click the "Create New Item from Current Page" icon ![Create New Item Icon](./screenshots/create-new-item.png) and the PDF will stored in Zotero as a top-level item. As above, it will be placed in the selected collection.
 
+####Retrieving Metadata
 Next, right-click on the PDF and select "Retrieve Metadata for PDF" from the context menu ![Retrieve Metadata](./screenshots/retrieve-metadata.png) 
 
-If you are doing this for the first time, Zotero will prompt you to install "pdftools" 
+If you are doing this for the first time on Windows, Zotero will prompt you to install "pdf tools" 
+&mdash; two small programs that allow Zotero to extract text from PDF files.
+
 
 
 <!--Linklist-->
