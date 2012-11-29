@@ -1,6 +1,6 @@
 %Creating Zotero Translators Using Framework
 %Sebastian Karcher
-%Boston College, November 2012
+%UofM Ann Arbor, November 2012
 
 #Why Learn About Translators?
 * One-click import from the web is perhaps *the* key features that distinguishes Zotero
@@ -29,8 +29,8 @@
 		<title>A Basic Webpage</title>
 	</head>
 	<body>
-		<div id="title">The Title of the webpage</div>
-		<div id="content" class="text">The Content of the webpage</div>
+		<div id="title">Title</div>
+		<div id="content" class="text">Content</div>
 	</body>
 </html>
 ~~~~~~~~~~
@@ -64,6 +64,12 @@
 		
 		//div[@id="content" and @class="text"]
 		
+
+#Our Tools
+
+* Scaffold - a Firefox extension to write and test the translator
+* Firefox "Inspect Element" - to help us understand the structure of a webpage (there are alternatives like "Firebug")
+
 #A sample Framework Translator - Single item
 
 ~~~~~~
@@ -99,8 +105,3 @@ urls : FW.Xpath('//ul[contains(@class, "search-results")]
 }
 });
 ~~~~~~~~~
-
-#Our Tools
-
-* Scaffold - a Firefox extension to write and test the translator
-* Firefox "Inspect Element" - to help us understand the structure of a webpage (there are alternatives like "Firebug")

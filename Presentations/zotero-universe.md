@@ -1,6 +1,6 @@
 % The Zotero Universe
 % Sebastian Karcher
-% Boston College, November 2012
+% UofM Ann Arbor, November 2012
 
 
 # The Zotero Universe
@@ -14,6 +14,7 @@
 
 # Extending the Zotero Universe - Zotero Plugins
 
+* Zotero Mobile
 * All plugins are at: http://www.zotero.org/support/plugins
 * Zotero Quicklook - Previews for Zotero
 * Zotfile - advanced PDF handling for Zotero

@@ -1,6 +1,6 @@
 % Introduction to Zotero
 % Sebastian Karcher
-% Boston College, November 2012
+% UofM Ann Arbor, November 2012
 
 #Installing Zotero
 
@@ -52,7 +52,7 @@ Three Scenarios:
    	+ Titles in Sentence case
 
 * For articles: Full Text Database/Publisher>>Google Scholar
-* For books: Most library catalogs > Worldcat > Amazon
+* For books: Most library catalogs > Worldcat > Google Books> Amazon
 
 #Syncing
 

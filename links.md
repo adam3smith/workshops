@@ -1,8 +1,11 @@
 #Zotero Workshop Notes \& links:
 
+##Slides
+PDFs: http://www.slideshare.net/adam3smith
+Markdown: https://github.com/adam3smith/zotero-workshops/Presentations
 ##Installing
 
-http://www.zotero.org/support/3.0
+http://www.zotero.org/download/
 
 Linux Install Script:
 PPA: http://forums.zotero.org/discussion/25317/install-zotero-standalone-from-ubuntu-linux-mint-ppa/%5D
@@ -35,6 +38,8 @@ Importing from Endnote: http://www.zotero.org/support/kb/importing_records_from_
 #Sync
 WebDAV PHP:http://forums.zotero.org/discussion/4736
 
+Dropbox/Symlink: https://zotpad.uservoice.com/knowledgebase/articles/103395-what-is-a-symbolic-link-and-why-should-i-use-one-w
+
 #Interface
 Hidden Preferences: http://www.zotero.org/support/preferences/hidden_preferences
 
@@ -42,7 +47,8 @@ Hidden Preferences: http://www.zotero.org/support/preferences/hidden_preferences
 ##Documentation:
 Zotero's Documentation: http://www.zotero.org/support/
 
-Libguides:
+**Libguides:**
+
 Washington University St. Louis: http://libguides.wustl.edu/zotero
 
 MIT: http://libguides.mit.edu/zotero
@@ -53,6 +59,7 @@ Comparison Chart - Wisconsin: http://www.library.wisc.edu/citation-managers/comp
 
 Oregon State in depth tutorial: http://ica.library.oregonstate.edu/tutorials/626--Introduction-to-Zotero
 
+**Listservs**
 Zotero Evangelist listserv: https://groups.google.com/forum/?fromgroups#!forum/zotero-evangelists
 
 Zotero dev listserv: http://groups.google.com/group/zotero-dev
@@ -113,7 +120,7 @@ https://www.zotero.org/groups/ancient_world_open_bibliographies
 
 Two online exhibition systems that integrate with Zotero
 
-Omeka (developed by CHNM): www.omeka.net and http://omeka.org
+Omeka (developed by CHNM): http://omeka.org
 
 And more heavily focused on annotating: http://editorsnotes.org/
 
@@ -126,6 +133,8 @@ http://forums.zotero.org/discussion/70/4/importing-endnote-files-into-zotero/
 
 ##Translators
 Scaffold Download: http://www.zotero.org/support/dev/translators/scaffold
+
+Xpath Bookmarklet: http://dl.dropbox.com/u/848981/it/xp/xp.html
 
 Framework Documentation: http://www.zotero.org/support/dev/translators/framework
 
