@@ -72,7 +72,7 @@ Field Mappings: http://aurimasv.github.com/z2csl/typeMap.xml
 
 Full Specifications: http://citationstyles.org/downloads/specification.html
 
-Sample Style Request:http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291554-527X/homepage/ForAuthors.html
+Sample Style Request:https://docs.google.com/document/d/1lV-rswvfNd6Prx0Fkymb5-RER8bhxSO-ZrtIldU1m0E/edit
 
 ##Plugins & Infrastructure
 
