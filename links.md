@@ -140,6 +140,8 @@ Framework Documentation: http://www.zotero.org/support/dev/translators/framework
 
 Field Names: http://aurimasv.github.com/z2csl/typeMap.xml
 
+sample site: IASSIST: http://www.iassistdata.org/iq/issue/35/4	
+
 How to write a translator (outdated but useful): http://niche-canada.org/member-projects/zotero-guide/chapter5.html
 
 Basic Translator code:
