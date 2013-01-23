@@ -52,13 +52,15 @@ Zotero's Documentation: http://www.zotero.org/support/
 
 ##Citation Styles
 
-GUI Editor: http://steveridout.com/csl/about/
+GUI Editor: http://editor.citationstyles.org/about/
 
 Field Mappings: http://aurimasv.github.com/z2csl/typeMap.xml
 
 Full Specifications: http://citationstyles.org/downloads/specification.html
 
-Sample Style Request:https://docs.google.com/document/d/1lV-rswvfNd6Prx0Fkymb5-RER8bhxSO-ZrtIldU1m0E/edit
+Sample Style Request:http://forums.zotero.org/discussion/27311/style-request-microbial-drug-resistance/#Item_1
+
+Abbreviations Plugin: http://citationstylist.org/tools/?#mlz-tools
 
 
 ##Plugins & Infrastructure
@@ -76,7 +78,6 @@ Qnotero: http://www.cogsci.nl/software/qnotero
 Zutilo:https://github.com/willsALMANJ/Zutilo
 
 Keyconfig:http://forums.mozillazine.org/viewtopic.php?t=72994
-
 
 Papermachine: http://web.library.emory.edu/blog/supercharge-your-zotero-library-using-paper-machines-part-i
 

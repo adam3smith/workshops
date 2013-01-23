@@ -1,6 +1,6 @@
 % Introduction to Zotero
 % Sebastian Karcher
-% UofM Ann Arbor, November 2012
+% NREL, January 2013
 
 #Installing Zotero
 
