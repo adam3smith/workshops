@@ -1,6 +1,6 @@
 %Intro to the Citation Style Language
 %Sebastian Karcher
-%UofM Ann Arbor, November 2012
+%NREL, January 2013
 
 #What we will learn this session
 * Zotero's citation styles are writen in CSL - Citation Style Language
@@ -36,7 +36,7 @@
 
 	[1] a) B. M. Trost, Chem. Eur. J. 1998, 4, 2405–2412; b) H. J. Ache, Angew. Chem. 1989, 101, 1–21; 	Angew. Chem. Int. Ed. Engl. 1989, 28, 1–20; c) H. Frey, Angew. Chem. 1998, 110, 2313–2318; Angew. 	Chem. Int. Ed. 1998, 37, 2193–2197.
 
-* Limited support for journal abbreviations
+* Limited support for journal abbreviations (plugin)
 
 #Basic structure of a CSL style
 * CSL is an XML language - it looks a lot like html. Like webpages, CSL styles are built up of nested nodes.
