@@ -33,7 +33,7 @@
 * The structure of a CSL citation style
 * Editing our own CSL styles with the Columbia University/Mendeley [Visual Editor](http://editor.citationstyles.org/about/).
 
-###3:50&ndash;5:00 Editing Styles###
+###3:50&ndash;5:00 Documenting Zotero###
 * Documentation on [zotero.org](http://http://www.zotero.org/support)
 * Why local Zotero Documentation?
 * Examples and best practices for documenting Zotero
