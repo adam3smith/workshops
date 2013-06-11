@@ -1,6 +1,6 @@
 % The Zotero Universe
 % Sebastian Karcher
-% UofM Ann Arbor, November 2012
+% Harvard Kennedy School, June 2013
 
 
 # The Zotero Universe
@@ -27,4 +27,5 @@
 * "Fork" of Zotero by Frank Bennett
 * Closely aligned with regular Zotero
 * Particularly for legal citations and non-Western languages
+* [Book out this May](http://www.amazon.com/Citations-Out-Box-Adapting-multilingual/dp/147934771X/)
 * Experimental/Cutting Edge

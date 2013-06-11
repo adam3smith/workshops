@@ -1,6 +1,6 @@
 % Why is Zotero Open Source and Why Does it Matter? 
 % Sebastian Karcher
-% UofM Ann Arbor, November 2012
+% Harvard Kennedy School, June 2013
 
 
 #Why Open Source
@@ -16,6 +16,7 @@ Common Reasons:
 * Protection against extortion rackets
 * Easily extensible
 
+
 #Supporting Open Source
 
 * Community vs. customer model
@@ -25,3 +26,13 @@ Common Reasons:
 	+ Don't be rude
 	+ Provide plenty of details and follow up
 	+ Search, especially before you suggest a feature
+
+#Troubleshooting Zotero
+
+* First step is always restart
+* Make sure versions are up to date
+* Try with all Firefox add-ons disabled
+* Read through relevant troubleshooting sections
+* Look at debug/error ID *if you want to*
+* Search forums
+* Post to forums
