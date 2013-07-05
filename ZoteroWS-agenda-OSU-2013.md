@@ -1,19 +1,85 @@
-Hi Sebastian,
-Thanks - I did it make it back safe and sound.
 
-The workshop will be held in the Autzen classroom, which is located on the main (2nd) floor of the Valley Library.  Enter through the main doors on the north side of the building, go through both sets of sliding glass doors, and walk straight ahead toward the information/reference desks.  Before reaching the desks, there is a main avenue.  Take a left onto this avenue and the classroom is the first (and only) room on the right before you reach a stairwell.
+#Agenda for the Zotero Workshop at Oregon State, Corvallis, July 11&ndash;12 2013#
 
-The campus does have guest wifi available, so participants are welcome to bring their laptops or use the computers in the Autzen classroom.
+*This is a tentative agenda. The workshop is small and interactive and we can shorten or extend modules as corresponds to participants' interests and needs.* 
 
-Here is a link to directions on how to travel to the library:  http://osulibrary.oregonstate.edu/visit
+##Thursday July 11##
 
-Here is the parking info:
-Visitor permits may be obtained at any one of the ten 'Pay & Display' stations located throughout campus which accept coin or currency only. Campus map downloadable, printable PDF format (http://oregonstate.edu/dept/facilities/taps/sites/default/files/taps_brochure_12-13.pdf)  The cost for a daily permit is $7.00 for the day or $1.00 an hour up to a maximum of four hours. Visitors may park in student and visitor lots only for the day the permit is purchased. There is a new visitor brochure Visitor Brochure (http://oregonstate.edu/dept/facilities/taps/sites/default/files/visitor_brochure.pdf) which contains pertinent information for visitors.
+###10&ndash;10:30 Introduction and Expectations###
+* Introduction and Overview
+* Why are you here?
+* What do you hope to take back?
+* What experiences do you have with Zotero?
 
-And a note for folks who may have been here before - the parking lot immediately to the west of the library is no more - it has been torn up and construction is underway to put in a new building.
+### 10:30&ndash;12:00 Getting to Know/Reviewing Zotero Part 1###
+* Installing Zotero
+* The Zotero Client Interface
+	+ Collecting
+	+ Organizing
+	+ Preferences etc.
 
-It is also possible to find free street parking (particularly in the summer, if you arrive in the morning) to the east of campus starting at about 11th street.  Allow about a 10-minute walk if you plan to go this route.
+### 12:00&ndash;13:00 Getting to Know/Reviewing Zotero Part 2###
+* Syncing and the Zotero Website
 
-Food - there is a coffee shop with food options (salads, sandwiches) in the library.  Also, there are more restaurants in the Memorial Union.  Here is the list of those options:  http://mu.oregonstate.edu/restaurants.  And people are welcome to bring their own food - there is also a microwave available in Java II, the coffee shop in the library.
+*** 
+###Lunch Break: 1:00dash;2:00###
+***
+### 2:00&ndash;3:15 Getting to Know/Reviewing Zotero Part 3###
+* The Word Processor plugins
+	+ Working efficiently in Word/LibreOffice
+	+ Using [RTF and ODF Scan](http://zotero-odf-scan.github.io/zotero-odf-scan/)
 
-Let me know if you think of anything else.
+
+### 3:20&ndash;5:00 Editing Citation Styles###
+* A brief introduction to the [Citation Style Language](http://citationstyles.org/) (CSL)
+* The structure of a CSL citation style
+* Editing our own CSL styles with the Columbia University/Mendeley [Visual Editor](http://editor.citationstyles.org/about/).
+
+###5:00&ndash;6:00 Documenting Zotero###
+* Documentation on [zotero.org](http://http://www.zotero.org/support)
+* Why local Zotero Documentation?
+* Examples and best practices for documenting Zotero
+
+
+***
+##Friday July 12##
+
+###9&ndash;10:00 Getting to Know Zotero Users###
+* Who benefits from using Zotero?
+* How would they use Zotero?
+* How can we reach them?
+* (depending on participants also: best practices)
+
+###10:10&ndash;11:40 Writing Translators using the Framework###
+* Understanding different translator types
+* Xpaths and Website Structure
+* Writing our own "scraper" translator using [framework](http://www.zotero.org/support/dev/translators/framework)
+
+###11:45&ndash;12:45 Teaching Zotero###
+* What should we teach?
+* How do we promote Zotero sessions?
+* Tips, tricks, and experiences
+
+
+***
+###Lunch break 12:45&ndash;1:45###
+***
+
+###1:45&ndash;3:15 The Zotero Universe###
+* Zotero's components and how they relate
+* Beyond Zotero Central
+	+ Plugins ([Zotfile](http://www.columbia.edu/~jpl2136/zotfile.html), [Quicklook](https://addons.mozilla.org/en-US/firefox/addon/zoteroquicklook/), [Papermachine](http://chrisjr.github.com/papermachines/) and more)
+	+ [Multilingual Zotero](http://citationstylist.org/)
+	+ Zotero on Mobile Devices
+
+###3:20&ndash;4:30 Supporting Zotero###
+* Basic DIY troubleshooting in Zotero
+* Supporting Free and Open Source Software (FOSS)
+	+ What makes FOSS different?
+	+ Using the Zotero Forum effectively
+* Zotero and the Competition
+	+ Zotero's main competitors
+	+ Supporting Zotero alongside other Software
+	+ Migrating to and from Zotero from other Software
+
+###4:30&ndash;5:00 Wrapping up, feedback, staying in touch###
