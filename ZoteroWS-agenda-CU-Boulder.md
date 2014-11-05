@@ -1,49 +1,58 @@
 
-#Agenda for the Zotero Workshop at CU Boulder, November 15&ndash;16#
+#Agenda for the Zotero Workshop at Cornell, November 20&ndash;21, 2014#
 
 *This is a tentative agenda. The workshop is small and interactive and we can shorten or extend modules as corresponds to participants' interests and needs.* 
 
-##Thursday November 15##
+##Thursday November 20##
 
-###10&ndash;10:45 Introduction and Expectations###
+###9&ndash;9:20 Introduction and Expectations###
 * Introduction and Overview
-* Why are you here?
-* What do you hope to take back?
-* What experiences do you have with Zotero?
+* Additional Agenda Reguest
 
-### 10:50&ndash;12:40 Getting to Know/Reviewing Zotero Part 1###
+### 9:20&ndash;11:20 Getting to Know/Reviewing Zotero Part 1###
 * Installing Zotero
 * The Zotero Client Interface
 	+ Collecting
 	+ Organizing
 	+ Preferences etc.
 
-*** 
-###Lunch Break: 12:40&ndash;1:40###
-***
-
-### 1:40&ndash;3:10 Getting to Know/Reviewing Zotero Part 2###
-* Syncing and the Zotero Website
+### 11:30&ndash;1:00 Getting to Know/Reviewing Zotero Part 2###
+* Syncing, Groups, and the Zotero Website
 * The Word Processor plugins
 	+ Working efficiently in Word/LibreOffice
 	+ Using [RTF Scan](http://www.zotero.org/support/rtf_scan)
+	+ Using [ODF Scan](http://zotero-odf-scan.github.io/zotero-odf-scan)
 
 
-###3:20&ndash;4:50 Editing Styles###
-* A brief introduction to the [Citation Style Language](http://citationstyles.org/) (CSL)
-* The structure of a CSL citation style
-* Editing our own CSL styles with the Columbia University/Mendeley [Visual Editor](http://steveridout.com/csl/about/).
+*** 
+###Lunch Break: 1:00&ndash;2:00###
+***
 
-###5:00&ndash;6:00 Documenting Zotero###
-* Documentation on [zotero.org](http://http://www.zotero.org/support)
-* Why local Zotero Documentation?
-* Examples and best practices for documenting Zotero
+###2:00&ndash;3:30 Teaching &amp; Supporting Zotero###
+* What should we teach?
+* Tips, tricks, and experiences
+* Basic DIY troubleshooting in Zotero
+* Supporting Free and Open Source Software (FOSS)
+	+ What makes FOSS different?
+	+ Using the Zotero Forum effectively
+* Zotero and the Competition
+	+ Zotero's main competitors
+	+ Supporting Zotero alongside other Software
+	+ Migrating to and from Zotero from other Software
+
+
+###3:40&ndash;5:00 Working###
+
+
 
 
 
 ***
-##Friday November 16##
-
+##Friday November 21##
+###3:40&ndash;5:00 Editing Styles###
+* A brief introduction to the [Citation Style Language](http://citationstyles.org/) (CSL)
+* The structure of a CSL citation style
+* Editing our own CSL styles with the Columbia University/Mendeley [Visual Editor](http://steveridout.com/csl/about/).
 
 ###9&ndash;10:00 Getting to Know Zotero Users###
 * Who benefits from using Zotero?
