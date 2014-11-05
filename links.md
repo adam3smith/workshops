@@ -1,7 +1,7 @@
 #Zotero Workshop Notes \& links:
 
 ##Slides
-PDFs: http://www.slideshare.net/adam3smith
+PDFs: http://www.slideshare.net/adam3smith (old)
 Markdown: https://github.com/adam3smith/zotero-workshops/Presentations
 ##Installing
 
@@ -17,7 +17,10 @@ http://www.cogsci.nl/software/qnotero#ppa
 
 Zotero Bookmarklet:https://www.zotero.org/bookmarklet/bookmarklet.html
 
-ISBN: 9780807752623
+ISBN: 
+9780807752623
+9781409411109
+9780465030545
 
 PMID: 22289095
 
@@ -31,14 +34,16 @@ DOI: 10.1093/ser/mwq022
 	year = {2000} 
 }
 
-RTF-Scan Documentation: http://www.zotero.org/support/rtf_scan
+RTF-ODF-Scan Documentation: http://zotero-odf-scan.github.io/zotero-odf-scan/
 
 Importing from Endnote: http://www.zotero.org/support/kb/importing_records_from_endnote
 
 #Sync
-WebDAV PHP:http://forums.zotero.org/discussion/4736
-
+WebDAV PHP: http://forums.zotero.org/discussion/4736
+List of WebDavs:http://www.zotero.org/support/kb/webdav_services 
 Dropbox/Symlink: https://zotpad.uservoice.com/knowledgebase/articles/103395-what-is-a-symbolic-link-and-why-should-i-use-one-w
+Relative links: http://zoteromusings.wordpress.com/2013/04/11/whats-new-in-zotero-4-0-part-2/
+
 
 #Interface
 Hidden Preferences: http://www.zotero.org/support/preferences/hidden_preferences
@@ -57,6 +62,8 @@ Jason Puckett at  Georgia State: http://research.library.gsu.edu/zotero
 
 Comparison Chart - Wisconsin: http://www.library.wisc.edu/citation-managers/comparison.html
 
+HKS: http://www.hks.harvard.edu/library/zotero/index.htm
+
 Oregon State in depth tutorial: http://ica.library.oregonstate.edu/tutorials/626--Introduction-to-Zotero
 
 **Listservs**
@@ -66,13 +73,16 @@ Zotero dev listserv: http://groups.google.com/group/zotero-dev
 
 ##Citation Styles
 
-GUI Editor: http://steveridout.com/csl/about/
+GUI Editor: http://editor.citationstyles.org/about/
 
 Field Mappings: http://aurimasv.github.com/z2csl/typeMap.xml
 
 Full Specifications: http://citationstyles.org/downloads/specification.html
 
-Sample Style Request:https://docs.google.com/document/d/1lV-rswvfNd6Prx0Fkymb5-RER8bhxSO-ZrtIldU1m0E/edit
+Sample Style Request: http://journals.cambridge.org/images/fileUpload/images/ALR-InstructionsApr13.pdf
+
+http://dx.doi.org/10.1051/alr/2012012
+
 
 ##Plugins & Infrastructure
 
@@ -84,7 +94,7 @@ Zotfile: http://www.columbia.edu/~jpl2136/zotfile.html
 
 Zotero Quicklook: https://addons.mozilla.org/en-US/firefox/addon/zoteroquicklook/
 
-Multi-Lingual Zotero: http://www.citationstylist.org
+Multi-Lingual Zotero: http://www.citationstylist.org http://www.amazon.com/Citations-Out-Box-Adapting-multilingual/dp/147934771X/
 
 Qnotero: http://www.cogsci.nl/software/qnotero
 
@@ -93,6 +103,11 @@ Zutilo:https://github.com/willsALMANJ/Zutilo
 Keyconfig:http://forums.mozillazine.org/viewtopic.php?t=72994
 
 Translator testing: http://zotero-translator-tests.s3-website-us-east-1.amazonaws.com/
+
+ZotPad: http://www.zotpad.com/
+
+Zotero Reader: https://secure.zoteroreader.com/
+
 
 
 ##Users
@@ -127,8 +142,6 @@ And more heavily focused on annotating: http://editorsnotes.org/
 ##Support
 
 http://www.zotero.org/support/reporting_bugs
-http://forums.zotero.org/discussion/26188/esa-journals-translator-issues/#Item_4
-http://forums.zotero.org/discussion/70/4/importing-endnote-files-into-zotero/
 
 
 ##Translators
@@ -140,7 +153,7 @@ Framework Documentation: http://www.zotero.org/support/dev/translators/framework
 
 Field Names: http://aurimasv.github.com/z2csl/typeMap.xml
 
-sample site: IASSIST: http://www.iassistdata.org/iq/issue/35/4	
+sample site: 	
 
 How to write a translator (outdated but useful): http://niche-canada.org/member-projects/zotero-guide/chapter5.html
 

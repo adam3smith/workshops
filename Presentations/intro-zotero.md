@@ -1,6 +1,6 @@
 % Introduction to Zotero
 % Sebastian Karcher
-% NREL, January 2013
+% Harvard Kenney School, June 2013
 
 #Installing Zotero
 
@@ -28,7 +28,7 @@ Three Scenarios:
 
 1. **Personal Computers or Roaming Profiles:** Ideal case, batch-install like any other Firefox add-on or software.
 
-2. **Public computers with log-in, wiped on every log-out:** Will need to sync entire library on every log-in: slow for large libraries, but doable.
+2. **Public computers with log-in, wiped on every log-out:** Will need to sync entire library on every log-in: slow for large libraries, but doable. Since 4.0: Attachment download on demand
 
 3. **Public computers, no log-in:** Do not install Zotero. Basic import/edit functionality via bookmarklet/connectors and zotero.org. No CWYW. 
 
@@ -67,14 +67,19 @@ Data Syncing:
 File Syncing
 
 * Attachments (PDFs, snapshots, anything else)
-* Free up to 100MB
+* Free up to 300MB
 * Can be to Zotero Storage or WebDAV server
 
 ##Zotero Storage vs. WebDAV
 
-* WebDAV services can be supplied by university IT; a PHP script is available. Also available via 3rd party provided, often for much lower price.
-* Zotero Works smoothly with WebDAV, but many free/cheap commercial WebDAVs aren't following specifications
+* WebDAV services can be supplied by university IT; a PHP script is available. Also available via 3rd party provider, often for much lower price.
+* Zotero Works smoothly with WebDAV, but many free/cheap commercial WebDAVs aren't following specifications or impose limits
 * Some functionality is only available with Zotero Storage: File access at zotero.org and file sharing in (closed) groups
 
-*Under no circumstances should the Zotero database be placed on a network drive or on a synced Dropbox folder*
+*Under no circumstances should the Zotero database be placed on a network drive or on a synced Dropbox folder. However...*
 
+##Using Dropbox et al with Zotero attachments
+
+* Use "links" not "attachments" in Zotero (automate via Zotfile)
+* Place linked files in Dropbox
+* Zotero's relative paths make this work across machines
