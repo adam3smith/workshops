@@ -1,6 +1,6 @@
 % Introduction to Zotero
 % Sebastian Karcher
-% Harvard Kenney School, June 2013
+% Cornell University Library, November 2014
 
 #Installing Zotero
 
@@ -17,8 +17,8 @@
  Supports direct import							Faster performance
  of RIS/Refer from web	
 
- Supports printing and 							Busy Zotero 
- modifying of reports							  doesn't render browser unresponsive
+  								Busy Zotero 
+ 							  	doesn't render browser unresponsive
 -------------------------------------------------------------------------------------
 Remember it's possible to install both!
 
