@@ -10,3 +10,7 @@ Mendeley field map: http://support.mendeley.com/customer/en/portal/articles/3641
 CSL specifications: http://docs.citationstyles.org/en/latest/specification.html
 Advanced CSL advice: https://zoteromusings.wordpress.com/2013/10/28/writing-csl-features-and-best-practices/
 Contributing to the CSL repository: https://github.com/citation-style-language/styles/blob/master/CONTRIBUTING.md
+
+
+Sample author instructions: Biosocieties:
+http://www.palgrave-journals.com/biosoc/author_instructions.html#References
