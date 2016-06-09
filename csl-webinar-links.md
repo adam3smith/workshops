@@ -16,6 +16,6 @@ Advanced CSL advice: https://zoteromusings.wordpress.com/2013/10/28/writing-csl-
 Contributing to the CSL repository: https://github.com/citation-style-language/styles/blob/master/CONTRIBUTING.md
 
 
-Sample author instructions: Biosocieties:
+Sample author instructions: Animal Migration
 
-http://www.palgrave-journals.com/biosoc/author_instructions.html#References
+http://www.degruyter.com/view/supplement/s20848838_Instructions_for_Authors.pdf
